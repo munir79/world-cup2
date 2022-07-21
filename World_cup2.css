@@ -1,0 +1,27 @@
+.column .Flag{
+    display: flex;
+    padding: 25px;
+}
+
+.column .Flag p{
+    padding: 10px;
+    text-align: center;
+
+}
+.column .VS{
+
+    text-align: center;
+
+}
+
+.column .VS h4{
+    color: rgb(48, 47, 47);
+    font-size: 15px;
+
+}
+.column .VS h6{
+    padding-top: 10px;
+    padding-bottom: 45px;
+    color: gray;
+
+}
